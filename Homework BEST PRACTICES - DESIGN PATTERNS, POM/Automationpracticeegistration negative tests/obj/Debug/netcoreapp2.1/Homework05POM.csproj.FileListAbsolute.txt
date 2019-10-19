@@ -1,0 +1,17 @@
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\bin\Debug\netcoreapp2.1\nunit.engine.dll
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\bin\Debug\netcoreapp2.1\testhost.exe
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\bin\Debug\netcoreapp2.1\testhost.dll
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\bin\Debug\netcoreapp2.1\Homework05POM.deps.json
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\bin\Debug\netcoreapp2.1\Homework05POM.runtimeconfig.json
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\bin\Debug\netcoreapp2.1\Homework05POM.runtimeconfig.dev.json
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\bin\Debug\netcoreapp2.1\Homework05POM.dll
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\bin\Debug\netcoreapp2.1\Homework05POM.pdb
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\obj\Debug\netcoreapp2.1\Homework05POM.csprojAssemblyReference.cache
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\obj\Debug\netcoreapp2.1\Homework05POM.csproj.CoreCompileInputs.cache
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\obj\Debug\netcoreapp2.1\Homework05POM.AssemblyInfoInputs.cache
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\obj\Debug\netcoreapp2.1\Homework05POM.AssemblyInfo.cs
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\obj\Debug\netcoreapp2.1\Homework05POM.dll
+D:\Danielka\SoftUni QA Automation\05.POM\Homework-daniella.madzharova- BEST PRACTICES - DESIGN PATTERNS, POM\Automationpracticeegistration negative tests\obj\Debug\netcoreapp2.1\Homework05POM.pdb
