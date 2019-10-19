@@ -1,9 +1,5 @@
-﻿using Homework03SeleniumAdvanced;
-using NUnit.Framework;
-using OpenQA.Selenium;
+﻿using OpenQA.Selenium;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Homework.Pages
 {
