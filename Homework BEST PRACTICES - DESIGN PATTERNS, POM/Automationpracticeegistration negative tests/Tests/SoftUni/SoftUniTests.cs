@@ -6,7 +6,7 @@ using Hamework.Pages;
 
 namespace Homework.Tests
 {
-    public class SoftUniTests:BaseTest
+    public class SoftUniTests : BaseTest
     {
         private IWebDriver _driver;
         private WebDriverWait _wait;

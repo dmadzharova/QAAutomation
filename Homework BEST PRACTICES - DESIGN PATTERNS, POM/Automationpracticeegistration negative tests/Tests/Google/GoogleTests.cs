@@ -5,7 +5,7 @@ using OpenQA.Selenium.Support.UI;
 
 namespace Homework.Tests
 {
-    public class GoogleTests:BaseTest
+    public class GoogleTests : BaseTest
     {
         private IWebDriver _driver;
         private WebDriverWait _wait;
@@ -26,6 +26,6 @@ namespace Homework.Tests
             _googlePage.Search("Selenium");
             _googlePage.ClickOnFirstResult();
             _googlePage.AssertDriverTitle("Selenium - Web Browser Automation");
-         }
+        }
     }
 }

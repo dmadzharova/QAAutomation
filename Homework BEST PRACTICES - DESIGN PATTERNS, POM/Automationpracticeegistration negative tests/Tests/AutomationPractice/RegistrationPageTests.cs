@@ -5,7 +5,7 @@ using OpenQA.Selenium.Support.UI;
 
 namespace Homework.Tests
 {
-    public class RegistrationPageTests:BaseTest
+    public class RegistrationPageTests : BaseTest
     {
         private IWebDriver _driver;
         private WebDriverWait _wait;
