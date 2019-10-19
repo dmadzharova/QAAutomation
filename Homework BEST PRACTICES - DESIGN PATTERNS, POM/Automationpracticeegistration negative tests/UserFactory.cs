@@ -8,14 +8,14 @@
             
             return new RegistrationUser
             {
-                FirstName = "Ivan",
+                FirstName = "Petur",
                 LastName = "Petrov",
                 Password = "fdafaf",
                 Date = "12",
-                Year = "1990",
+                Year = "1988",
                 Month = "4",
                 Gender = "male",
-                RealFirstName = "Ivan",
+                RealFirstName = "Petur",
                 RealLastName = "Petroff",
                 Company = "QA Service",
                 Address = "11 Mason St",
